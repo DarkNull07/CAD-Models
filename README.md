@@ -1,2 +1,2 @@
-# CAD-Practice-Models
+# CAD-Models
 Practicing SolidWorks modeling
